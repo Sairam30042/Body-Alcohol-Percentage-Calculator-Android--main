@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">exercise1</string>
+    <string name="weight">Weight(lbs)</string>
+    <string name="weight_edit"></string>
+    <string name="gender">Gender</string>
+    <string name="radioButton_male">Male</string>
+    <string name="radioButton_female">Female</string>
+    <string name="set_weight">Set Weight</string>
+    <string name="view_weight">Weight:</string>
+    <string name="view_weight_text"></string>
+    <string name="alcohol">Drink Size:</string>
+    <string name="alcohol1oz">1oz</string>
+    <string name="alcohol5oz">5oz</string>
+    <string name="alcohol12oz">12oz</string>
+    <string name="alcohol_level">Alcohol% :</string>
+    <string name="seekBar_alcohol_level"></string>
+    <string name="default_level">12%</string>
+    <string name="reset">Reset</string>
+    <string name="add">Add</string>
+    <string name="no_drinks">#Drinks : 00</string>
+    <string name="BAC_level">BAC Level : 0.0000</string>
+    <string name="your_status">Your Status</string>
+    <string name="your_limit">You are safe</string>
+
+
+</resources>
